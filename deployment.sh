@@ -1,2 +1,2 @@
-sudo cd /ubuntu/test
-sudo touch test
+cd /ubuntu/test
+touch test
