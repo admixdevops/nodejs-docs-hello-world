@@ -1,2 +1,2 @@
-cd /ubuntu/test
+cd /home/ubuntu/test
 touch test
